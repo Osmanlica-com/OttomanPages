@@ -14,10 +14,10 @@ framework for segmenting historical Ottoman document images. Our approach
 leverages a hybrid architecture combining traditional image processing with deep
 learning models and domain-specific heuristics to effectively differentiate between
 textual and non-textual components. We also present a newly curated and
-annotated dataset of Ottoman manuscripts and printed texts to benchmark seg￾mentation performance. 
+annotated dataset of Ottoman manuscripts and printed texts to benchmark segmentation performance. 
 Experimental evaluations demonstrate that our method
 outperforms generic techniques in preserving layout structure and improving
-downstream processing accuracy. This work provides both a methodological con￾tribution and a 
+downstream processing accuracy. This work provides both a methodological contribution and a 
 foundational resource for future research in historical document
 analysis, particularly in underrepresented non-Latin scripts such as Ottoman
 Turkish.
