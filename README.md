@@ -21,3 +21,7 @@ downstream processing accuracy. This work provides both a methodological contrib
 foundational resource for future research in historical document
 analysis, particularly in underrepresented non-Latin scripts such as Ottoman
 Turkish.
+
+
+# dataset 
+https://doi.org/10.5281/zenodo.22756788
