@@ -1,0 +1,139 @@
+{
+  "data_root": "/Users/ishak/Projects/Layout/dataset/OttomanPageSegmentation",
+  "train": {
+    "num_pages": 4734,
+    "num_annotations": 123288,
+    "text_blocks_per_page": {
+      "mean": 26.04,
+      "median": 9.0,
+      "min": 0,
+      "max": 414,
+      "std": 55.49,
+      "n": 4734
+    },
+    "text_block_area_px2": {
+      "mean": 141869.82,
+      "median": 13671.0,
+      "min": 0.0,
+      "max": 18770836.0,
+      "std": 481399.36,
+      "n": 123288
+    },
+    "text_block_width_px": {
+      "mean": 264.9,
+      "median": 126.0,
+      "min": 0,
+      "max": 3682,
+      "std": 310.04,
+      "n": 123288
+    },
+    "text_block_height_px": {
+      "mean": 259.63,
+      "median": 106.0,
+      "min": 0,
+      "max": 5100,
+      "std": 474.39,
+      "n": 123288
+    },
+    "block_density_pct": {
+      "mean": 57.87,
+      "median": 62.62,
+      "min": 0.12,
+      "max": 181.51,
+      "std": 20.87,
+      "n": 4733
+    },
+    "nearest_neighbor_distance_px": {
+      "mean": 204.16,
+      "median": 111.75,
+      "min": 1.93,
+      "max": 2437.4,
+      "std": 242.58,
+      "n": 123227
+    },
+    "overlap_ratio_pct": {
+      "mean": 1.56,
+      "median": 0.13,
+      "min": 0.0,
+      "max": 136.38,
+      "std": 5.22,
+      "n": 4733
+    },
+    "skew_angle_deg": {
+      "mean": 0.84,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 45.0,
+      "std": 2.99,
+      "n": 123288
+    }
+  },
+  "test": {
+    "num_pages": 509,
+    "num_annotations": 12767,
+    "text_blocks_per_page": {
+      "mean": 25.08,
+      "median": 9,
+      "min": 1,
+      "max": 341,
+      "std": 51.52,
+      "n": 509
+    },
+    "text_block_area_px2": {
+      "mean": 149165.08,
+      "median": 13803.0,
+      "min": 0.0,
+      "max": 8655654.0,
+      "std": 490031.33,
+      "n": 12767
+    },
+    "text_block_width_px": {
+      "mean": 268.42,
+      "median": 129,
+      "min": 0,
+      "max": 2896,
+      "std": 309.58,
+      "n": 12767
+    },
+    "text_block_height_px": {
+      "mean": 271.19,
+      "median": 105,
+      "min": 0,
+      "max": 6006,
+      "std": 503.04,
+      "n": 12767
+    },
+    "block_density_pct": {
+      "mean": 57.82,
+      "median": 62.14,
+      "min": 1.04,
+      "max": 176.0,
+      "std": 21.36,
+      "n": 509
+    },
+    "nearest_neighbor_distance_px": {
+      "mean": 207.36,
+      "median": 111.71,
+      "min": 20.23,
+      "max": 2391.69,
+      "std": 249.64,
+      "n": 12756
+    },
+    "overlap_ratio_pct": {
+      "mean": 1.7,
+      "median": 0.16,
+      "min": 0.0,
+      "max": 94.46,
+      "std": 5.91,
+      "n": 509
+    },
+    "skew_angle_deg": {
+      "mean": 0.96,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 45.0,
+      "std": 3.13,
+      "n": 12767
+    }
+  }
+}
